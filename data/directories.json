@@ -5236,5 +5236,14 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+    "name": "SolarXlist",
+    "url": "https://solarxlist.org/",
+    "domain_rating": 0,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Global directory of solar, PV, and energy-storage companies searchable by country, city, and business role."
   }
 ]
